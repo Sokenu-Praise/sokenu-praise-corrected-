@@ -1,0 +1,59 @@
+*{
+    background-color:#EAC8A6;
+}
+#home{border: 10px solid black;
+    background-color:#9ECAD6;
+border-width: 5px 5px;
+}
+#about{border: 10px solid black;
+    background-color:#748DAE;
+border-width: 5px 5px;
+margin-top: -2%;
+}
+#project{border: 10px solid black;
+    background-color:#F5CBCB;
+border-width: 5px 5px;
+margin-top: -2%;
+}
+#skills{border: 10px solid black;
+    background-color:#FFEAEA;
+border-width: 5px 5px;
+margin-top: -2%;
+}
+#contact{border: 10px solid black;
+    background-color:#FDF5AA;
+border-width: 5px 5px;
+margin-top: -2%;
+margin-bottom: 25%;
+}
+#center{
+    
+    text-align: center;
+}
+footer {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 20px 0;
+  font-size: 14px;
+}
+*{
+    text-decoration: none;
+}
+.menu{
+    color: black;
+}
+
+.diva a {
+  display: block;
+  padding: 5px;
+  font-size: 24px;
+}
+
+
+/* Hover effect */
+.diva a:hover {
+  background: black;   /* background turns black */
+  color: white;        /* text turns white */
+  transform: scale(1.03); /* slightly zooms */
+  transition: 0.3s;    /* smooth effect */
+}
